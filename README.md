@@ -1,9 +1,9 @@
 # progettoProlog
 Progetto Prolog per IA Lab 2022
 
-## Run
+## Prolog
 
-Caricare il puzzle dell'8 o del 15, con l'euristica voluta.
+Caricare il puzzle dell'8 con l'euristica voluta.
 
 8 (Euristica Misplaced Tiles):
 ```
@@ -14,7 +14,7 @@ Caricare il puzzle dell'8 o del 15, con l'euristica voluta.
 ['ricerca_manhattan.pl'].
 ```
 
-Utilizzare il codice:
+Utilizzare il codice per eseguirlo e vedere la tempistica:
 ```
 statistics(cputime, TStart), prova(L), write(L), statistics(cputime, TEnd), T is TEnd-TStart.
 ```
