@@ -1,5 +1,5 @@
-:- load_files('dominio8.pl').
-:- load_files('regole8.pl').
+:- load_files('dominio.pl').
+:- load_files('regole.pl').
 
 prova(ListaAzioni):-
     puzzle_iniziale(SIniziale),
