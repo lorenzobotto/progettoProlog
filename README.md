@@ -7,11 +7,11 @@ Caricare il puzzle dell'8 o del 15, con l'euristica voluta.
 
 8 (Euristica Misplaced Tiles):
 ```
-['puzzle15/ricerca.pl'].
+['ricerca.pl'].
 ```
 8 (Euristica Manhattan):
 ```
-['puzzle15/ricerca_manhattan.pl'].
+['ricerca_manhattan.pl'].
 ```
 
 Utilizzare il codice:
