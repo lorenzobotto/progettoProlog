@@ -83,8 +83,6 @@ calcolaMin([Head, Head2 | Tail], M) :-
     Costo > Costo2,
     calcolaMin([Head2 | Tail], M).
 
-is_empty(List):- not(member(_,List)).
-
 calcolaAzioni(S, Visitati, []) :-
     ricercaStatoVecchio(S, Visitati, SVecchio),
     SVecchio = 0.
