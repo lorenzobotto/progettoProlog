@@ -23,7 +23,7 @@ risultato, nel formato prova(+ListaAzioni).
 
 Installare SWI-Prolog da https://www.swi-prolog.org/. Una volta installato si può proseguire con le esecuzioni.
 
-Aprire Prolog da linea di comando (se le variabili di sistema sono impostate):
+Aprire Prolog da linea di comando (se le variabili di sistema sono impostate) digitando:
 ```
 swipl
 ```
