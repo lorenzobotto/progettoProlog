@@ -4,7 +4,7 @@ Progetto Prolog per il corso di Intelligenza Artificiale e Laboratorio - Unito 2
 ## Descrizione progetto
 
 E' stato implementato un sistema intelligente in grado di risolvere il gioco
-"Sliding Puzzle 8" utilizzando come strategia di ricerca nello spazio degli stati l'algoritmo A* (A Star),
+"Sliding Puzzle 8" in Prolog utilizzando come strategia di ricerca nello spazio degli stati l'algoritmo A* (A Star),
 utilizzando due euristiche:
 - euristica delle caselle fuori posto: conta le caselle fuori posto dello stato considerato rispetto allo stato goal;
 - euristica della distanza di Manhattan: calcola il numero di azioni necessarie per portare una casella nel posto corretto, per ogni casella, e infine somma tutti i valori.
