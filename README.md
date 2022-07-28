@@ -43,3 +43,9 @@ Utilizzare il codice seguente per eseguirlo e vedere la tempistica:
 ```
 statistics(cputime, TStart), prova(L), statistics(cputime, TEnd), T is TEnd-TStart, write(L), length(L, NumeroAzioni).
 ```
+
+## Video esecuzione del progetto
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YMuu9Gw-8oQ
+" rel="noopener" target="_blank"><img src="http://img.youtube.com/vi/YMuu9Gw-8oQ/0.jpg" 
+alt="Esecuzione Prolog" width="400" border="10" /></a>
