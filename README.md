@@ -23,12 +23,12 @@ risultato, nel formato prova(+ListaAzioni).
 
 Installare SWI-Prolog da https://www.swi-prolog.org/. Una volta installato si può proseguire con le esecuzioni.
 
-Aprire Prolog da linea di comando (se le variabili di sistema sono impostate) digitando:
+Aprire Prolog da riga di comando (se le variabili di sistema sono impostate) digitando:
 ```
 swipl
 ```
 
-Caricare il puzzle dell'8 con l'euristica voluta.
+Da riga di comando (swipl), caricare il puzzle dell'8 con l'euristica voluta.
 
 Sliding Puzzle 8 (Euristica caselle fuori posto):
 ```
